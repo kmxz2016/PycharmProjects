@@ -1,0 +1,6 @@
+price_str = input（“apple的价格："）
+weight_str = input("apple的重量:")
+price = float(price_str)
+weight = float(weight_str)
+money =price * weight
+print(money)

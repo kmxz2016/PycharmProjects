@@ -1,0 +1,3 @@
+import sunck
+
+sunck.sayNice()
